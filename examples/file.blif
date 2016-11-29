@@ -1,0 +1,12 @@
+# Benchmark "file" written by ABC on Tue Nov 29 10:06:33 2016
+.model file
+.inputs a b c d
+.outputs f3
+.names b a f1
+01 0
+.names c d f2
+11 0
+.names f1 f2 f3
+01 1
+10 1
+.end

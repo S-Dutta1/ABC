@@ -1,0 +1,5 @@
+INORDER = a b c d;
+OUTORDER = f3;
+f1 = (!a*b);
+f2 = (c+d);
+f3 = (a*b*c)+(b*c)

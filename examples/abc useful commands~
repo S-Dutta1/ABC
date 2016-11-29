@@ -1,0 +1,8 @@
+read_eqn file.eqn  -- read file.eqn +OR *AND !NOT   ^XOR
+write file.v  --  outputs verilog file from input
+write_blif file.blif  --   outputs blif file from input
+print_kmap  --   
+read_truth 1000 -- reads truth table -- not very clear
+print_gates
+
+
